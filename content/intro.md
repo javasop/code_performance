@@ -9,12 +9,12 @@
 ## Agenda
 
 * 2 min - Goals
-* 15 min - Benchmarking Intro
-* 20 min - Playing with Benchmark
+* 20 min - Benchmarking Intro
+* 30 min - Playing with Benchmark
 * 15 min - Profiling Intro
-* 15 min - Playing with Profiling
-* 45 min - Profiling Sales Engine
+* 20 min - Playing with Profiling
 * 5 min - Wrap up 
+
 
 ## Materials
 * [Repo](https://github.com/rwarbelow/performance_of_code)
